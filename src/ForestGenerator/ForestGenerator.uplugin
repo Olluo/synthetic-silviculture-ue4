@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ForestGenerator",
+	"Description": "Forest generator based on the paper \"Synthetic Silviculture\"",
+	"Category": "Other",
+	"CreatedBy": "Ollie Nicholls",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ForestGenerator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
